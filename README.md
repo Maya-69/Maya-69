@@ -12,4 +12,4 @@ I am a Computer Engineering student (Grad 2027) and ISC2 Certified in Cybersecur
 - **Zero-Trust Network:** Configured TLS, VPNs, and Docker networking with 99.9% uptime.
 - **IoT Smart Home:** 1st Place winner for an air-gapped automation system in C++.
 
-📫 **Reach me at:** [sawantmayuresh811@gmail.com](mailto:sawantmayuresh811@gmail.com) | [LinkedIn](https://www.linkedin.com/in/contact-mayuresh-sawant)
+📫 **Reach me at:** [sawantmayuresh2006@gmail.com](mailto:sawantmayuresh811@gmail.com) | [LinkedIn](https://www.linkedin.com/in/contact-mayuresh-sawant)
